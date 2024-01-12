@@ -43,7 +43,7 @@ function Add(){
 
      array=["tsr","tvm","ekm"];
      
-        array.foreach(a[10](kochi))
+        array.foreach(a[20](kochi))
      }
 
 
